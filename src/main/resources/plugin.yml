@@ -1,0 +1,7 @@
+name: NoobstersArenaMatch
+main: me.infinityz.NoobstersArenaMatch
+version: 1.0-A
+commands:
+  commander:
+depend:
+  - WorldEdit
